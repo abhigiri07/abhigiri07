@@ -6,6 +6,12 @@
 - 📱 Android (Java) | 🌐 Web (HTML, CSS, JS, PHP)  
 - ☁️ Cloud (AWS, DevOps, Linux, MySQL)  
 - 🌱 Currently exploring **Cloud Architecture & Automation**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-giri-7abhi/) | [Email](abhishekgiri02973@gmail.com)  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-giri-7abhi/) | [Email](abhishekgiri02973@gmail.com)
+
+| Domain   |  Skills  | Projects |
+|----------|----------|----------|
+| Cloud    | AWS   |    |
+| Android    | Java & XML   |    |
+
 
 ---
