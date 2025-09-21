@@ -8,10 +8,13 @@
 - 🌱 Currently exploring **Cloud Architecture & Automation**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-giri-7abhi/) | [Email](abhishekgiri02973@gmail.com)
 
-| Domain   |  Skills  | Projects |
-|----------|----------|----------|
-| Cloud    | AWS   |    |
-| Android    | Java & XML   |    |
+| Domain   | Skills        | Projects |
+|----------|---------------|----------|
+| Cloud    | AWS           |          |
+| Android  | Java & XML    |          |
+| Websites | HTML, CSS, JS |  [Portfolio](https://github.com/abhigiri07/portfolio)
+[Currency Conveter](https://github.com/abhigiri07/currencyconveter)|
+
 
 
 ---
