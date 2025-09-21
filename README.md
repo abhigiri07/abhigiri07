@@ -12,8 +12,7 @@
 |----------|---------------|----------|
 | Cloud    | AWS           |          |
 | Android  | Java & XML    |          |
-| Websites | HTML, CSS, JS |  [Portfolio](https://github.com/abhigiri07/portfolio)
-[Currency Conveter](https://github.com/abhigiri07/currencyconveter)|
+| Websites | HTML, CSS, JS |  [Portfolio](https://github.com/abhigiri07/portfolio)[Currency Conveter](https://github.com/abhigiri07/currencyconveter)|
 
 
 
