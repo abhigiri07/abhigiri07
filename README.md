@@ -11,8 +11,8 @@
 | Domain   | Skills        | Projects |
 |----------|---------------|----------|
 | Cloud    | AWS           |          |
-| Android  | Java & XML    |          |
-| Websites | HTML, CSS, JS |  [Portfolio](https://github.com/abhigiri07/portfolio)[Currency Conveter](https://github.com/abhigiri07/currencyconveter)|
+| Android  | Java & XML    | -[QR Scanner](https://github.com/abhigiri07/QR-Scanner-App)         |
+| Websites | HTML, CSS, JS | -[Portfolio](https://github.com/abhigiri07/portfolio)<br> -[Currency Conveter](https://github.com/abhigiri07/currencyconveter)|
 
 
 
