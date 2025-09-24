@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Abhishek  
 
+![Profile views](https://komarev.com/ghpvc/?username=abhigiri07&color=blue&style=flat)
+
+
 🚀 **Android & Web Developer | Cloud Enthusiast (AWS/DevOps)**  
 
 - 💻 Building scalable apps & modern solutions  
