@@ -41,5 +41,5 @@ A sample of my recent articles:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhigiri07&show_icons=true&locale=en&layout=compact" alt="abhigiri07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhigiri07&show_icons=true&locale=en" alt="abhigiri07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigiri07&" alt="abhigiri07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigiri07&" alt="" /></p>
 
