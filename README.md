@@ -14,7 +14,7 @@
 | Domain   | Skills        | Projects |
 |----------|---------------|----------|
 | Cloud    | AWS           | -[3 Tier with LB and AutoScaling](https://github.com/abhigiri07/3-Tier-Artitecture-With-LB-and-AutoScaling) <br> -[Static Website with S3 and Cloudfront](https://github.com/abhigiri07/s3-cloudfront-static-website) <br> -[Registration form using MYSQL with LEMP](https://github.com/abhigiri07/Registration-Form-MYSQL-LEMP) <br> -[Automatic File Organizer using Lambda + S3 + SNS](https://github.com/abhigiri07/Automatic-Files-Organizer-Lambda-S3-SNS)      |
-|          | DevOps        | -[Mirroing Repository(Gitlab to Github)](https://github.com/abhigiri07/Mirroring-repository-Gitlab-to-Github)         |
+|          | DevOps        | -[Mirroing Repository(Gitlab to Github)](https://github.com/abhigiri07/Mirroring-repository-Gitlab-to-Github) <br> -[Node app deployment using jenkins](https://github.com/abhigiri07/node-app-deploy-jenkins)         |
 | Android  | Java & XML    | -[QR Scanner](https://github.com/abhigiri07/QR-Scanner-App) <br> -[Unit Converter](https://github.com/abhigiri07/Unit-Converter-App) <br> -[Attendance App](https://github.com/abhigiri07/PresentSir_AndroidApp) <br> -[Stop Watch](https://github.com/abhigiri07/Stop-watch) <br> -[Tic Tac Toe Game](https://github.com/abhigiri07/Tic_Tac_Toe)  <br> -[Cricket Scorer](https://github.com/abhigiri07/CricScore)   |
 | Websites | HTML, CSS, JS | -[Portfolio](https://github.com/abhigiri07/portfolio)<br> -[Currency Conveter](https://github.com/abhigiri07/currencyconveter) <br>- [Tiranga Animation](https://github.com/abhigiri07/Tiranga_Animation)   |
 
