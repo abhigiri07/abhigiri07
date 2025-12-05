@@ -22,7 +22,9 @@
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Abhishek Giri's Portfolio](https://abhishekgiriportfolio.netlify.app) as well as on [Medium](https://medium.com/@abhishekgiri7).
 
-A sample of my recent articles:
+__A sample of my recent articles:__
+<br>
+
 -[Three-Tier PHP Registration Form — Docker Deployment](https://medium.com/@abhishekgiri7/three-tier-php-registration-form-docker-deployment-432f9bc16095) <br>
 -[Serverless Weather Alert System using Lambda, SNS, and EventBridge](https://medium.com/@abhishekgiri7/serverless-weather-alert-system-using-lambda-sns-and-eventbridge-f86e9324a065) <br>
 -[Node.js App — CI/CD with Jenkins with Webhook](https://medium.com/@abhishekgiri7/node-js-app-ci-cd-with-jenkins-with-webhook-550f57c82881)<br>
