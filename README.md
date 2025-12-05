@@ -23,7 +23,9 @@
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Abhishek Giri's Portfolio](https://abhishekgiriportfolio.netlify.app) as well as on [Medium](https://medium.com/@abhishekgiri7).
 
 A sample of my recent articles:
-<br>
+-[Three-Tier PHP Registration Form — Docker Deployment](https://medium.com/@abhishekgiri7/three-tier-php-registration-form-docker-deployment-432f9bc16095) <br>
+-[Serverless Weather Alert System using Lambda, SNS, and EventBridge](https://medium.com/@abhishekgiri7/serverless-weather-alert-system-using-lambda-sns-and-eventbridge-f86e9324a065) <br>
+-[Node.js App — CI/CD with Jenkins with Webhook](https://medium.com/@abhishekgiri7/node-js-app-ci-cd-with-jenkins-with-webhook-550f57c82881)<br>
 -[Mirroring-Repository(Gitlab-to-Github)](https://medium.com/@abhishekgiri7/repository-mirroring-from-gitlab-to-github-ac53335adf65)<br>
 -[S3-CloudFront-image-uploader-website](https://medium.com/@abhishekgiri7/s3-cloudfront-image-uploader-d9202377a993)<br>
 -[Automatic File Organizer with AWS Lambda & SNS](https://medium.com/@abhishekgiri7/automatic-file-organizer-with-aws-lambda-sns-37d455df6983) <br>
